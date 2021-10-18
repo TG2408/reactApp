@@ -1,3 +1,6 @@
+1. Text Editor	Technologies Used: React JS
+2. The project is a text editor that allows multiple functionalities like Changing any text to Upper Case / Lower Case, Counting no. of Character & Words, Computing average         reading time of text & Providing text preview.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
